@@ -8,7 +8,7 @@ Example
 
 Use `NewLiningWriter(lp LineProcessor, eh ErrorHandler) *LiningWriter` to get the `io.Writer`:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~_example/cmdlogging.go
+~~~~~~~~~~~~~~~~~~~~~~~~~~go
 package main
 
 import (
